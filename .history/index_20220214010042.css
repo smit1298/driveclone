@@ -6,8 +6,8 @@
 body {
   font-size: 1.125rem;
   font-family: "Roboto", sans-serif;
-  color: rgb(85, 85, 85);
-  border-bottom: 1px solid rgb(85, 85, 85);
+  color: rgb(85, 85, 85);  border-bottom: 1px solid black;
+
 }
 .main {
   padding: 10px 30px;
@@ -64,28 +64,30 @@ body {
   font-weight: 700;
 }
 
-.icons {
+.icons{
   font-size: 25px;
   padding-top: 10px;
   margin-left: 10px;
 }
 
-.one {
+.one{
   padding-left: 20px;
   padding-right: 10px;
+
 }
 
-.one > .iconify {
+.one > .iconify{
   padding-left: 10px;
   padding-right: 10px;
 }
 
-.two {
+.two{
   padding-left: 10px;
   padding-right: 10px;
+
 }
 
-.two > .iconify {
+.two > .iconify{
   padding-left: 10px;
   padding-right: 10px;
 }
